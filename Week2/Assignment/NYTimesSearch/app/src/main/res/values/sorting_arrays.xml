@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sorting_array">
+        <item>oldest</item>
+        <item>newest</item>
+    </string-array>
+</resources>
