@@ -1,2 +1,2 @@
 ##Slides
-[Slides](https://swipe.to/2804cn	)
+[Slides](http://slides.com/annlin/deck#/)
